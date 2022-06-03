@@ -12,7 +12,11 @@
     <ul>
         <li><span>Images:</span><a href="https://mamaearth.in/">Mama Earth.com</a></li>
         <li><span>Content:</span><a href="https://mamaearth.in/">Mama Earth.com</a></li>
-        <li><span>CSS Library</span><a href=""></a>Swiper Js</li>
+        <li><span>CSS Library:</span>
+        <a href="">Swiper Js</a>
+         <a href="">Bootstrap</a>   
+           <a href="">Chakra-UI</a>  
+        </li>
         <li><span>Icons:</span><a href="">Font-Awesome</a></li>
         <li style="display:flex,"><span>References:</span>
            <a href="">MDN DOCS |</a>
@@ -87,7 +91,7 @@
       <hr>
       <p>Click the name to visit their Github Profile</p>
       <ul>
-          <li><a href="https://github.com/Bharani619"></a><p>Bharanishwaran</p></li>
+          <li><a href="https://github.com/Bharani619">Bharanishwaran</a></li>
       </ul>
       <h3>Support</h3>
       <hr>
