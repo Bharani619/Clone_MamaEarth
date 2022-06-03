@@ -10,8 +10,8 @@
     <br>
     <label for="">Credits</label>
     <ul>
-        <li><span>Images:</span><a href="https://mamaearth.in/">Boat LifeStyle.com</a></li>
-        <li><span>Content:</span><a href="https://mamaearth.in/">boat-lifestyle.com</a></li>
+        <li><span>Images:</span><a href="https://mamaearth.in/">Mama Earth.com</a></li>
+        <li><span>Content:</span><a href="https://mamaearth.in/">Mama Earth.com</a></li>
         <li><span>CSS Library</span><a href=""></a>Swiper Js</li>
         <li><span>Icons:</span><a href="">Font-Awesome</a></li>
         <li style="display:flex,"><span>References:</span>
