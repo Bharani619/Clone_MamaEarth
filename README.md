@@ -84,7 +84,7 @@
       <hr>
       <p>Click the name to visit their Github Profile</p>
       <ul>
-          <li><a href="https://github.com/Bharani619"></a>Bharanishwaran</li>
+          <li><a href="https://github.com/Bharani619"></a><p>Bharanishwaran</p></li>
       </ul>
       <h3>Support</h3>
       <hr>
