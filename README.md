@@ -29,6 +29,9 @@
         <li>JavaScript</li>
         <li>React</li>
         <li>Redux</>
+        <li>Bootstrap</>
+        <li>SwiperJs</>
+        <li>Chakra-UI</>
         <li>Github</li>
     </ul>
     <br>
