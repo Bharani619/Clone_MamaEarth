@@ -4,7 +4,7 @@
     <ul>
         <li><a href="https://clone-mamaearth.netlify.app/">Click here</a><span>to preview our project.</span></li>
         <li><a href="https://medium.com/@rg15697/a-new-experience-with-cloning-of-mamaearth-website-fbffb55767aa">Click here</a><span>to view our Blog.</span></li>
-        <li><a href="">Click here</a><span>to watch a brief preview of our project in video format.</span></li>
+        <li><a href="https://drive.google.com/file/d/1iLvL-08IGJ64dp9s4pC19r3DJD1qqErP/view?usp=sharing">Click here</a><span>to watch a brief preview of our project in video format.</span></li>
     </ul>
 <!--     <img src="https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Boat-Logo_200x_200x_f9c79bf9-9c9a-477d-ab6a-7c889a1f2f70_170x.png?v=1646731229" alt=""> -->
     <br>
